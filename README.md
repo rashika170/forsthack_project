@@ -6,8 +6,11 @@
 
 ## TECHNOLOGY STACK - Flutter, dart, AI(IBM Watson)
 
-## Challenges we ran into 
+## Challenges we ran into
+To integrate maximun number of possible questions in chat bot, with all the possibilites a normal human could ask.To add in two pages on app so as for user comfort.
 
+
+### About project
 " Mental health needs is more sunlight, more candor, and more unashamed conversation.” – Glenn Close
 In busy 21st century there has been deterioration in mental health of youngsters. 
 Mental illness symptoms must be identified as early as possible as untreated symptoms continue and worsen over time.
